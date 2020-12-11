@@ -29,25 +29,25 @@
 <meta name="description" content="大者，盛者。身处一个前所未有的盛大时代，理应有所作为。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Cool IPR Player">
-<meta property="og:url" content="http://coolipr.com/about/index.html">
+<meta property="og:url" content="https://coolipr.com/about/index.html">
 <meta property="og:site_name" content="CoolIPer">
 <meta property="og:description" content="大者，盛者。身处一个前所未有的盛大时代，理应有所作为。">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://hazyman.com/img/content/20201108007.jpeg">
 <meta property="og:image" content="https://hazyman.com/img/content/ThinkerCover.jpeg">
 <meta property="og:image" content="https://p6-tt.byteimg.com/origin/pgc-image/dbdf81bb3ef244da871297a5ce395608?from=pc">
-<meta property="og:image" content="http://coolipr.com/img/profile-joined-github.jpg">
-<meta property="og:image" content="http://coolipr.com/img/profile-first-repo.jpg">
-<meta property="og:image" content="http://coolipr.com/img/profile-first-issue.jpg">
+<meta property="og:image" content="https://coolipr.com/img/profile-joined-github.jpg">
+<meta property="og:image" content="https://coolipr.com/img/profile-first-repo.jpg">
+<meta property="og:image" content="https://coolipr.com/img/profile-first-issue.jpg">
 <meta property="article:published_time" content="2020-12-05T04:00:00.000Z">
-<meta property="article:modified_time" content="2020-12-08T11:48:26.819Z">
+<meta property="article:modified_time" content="2020-12-11T09:02:56.893Z">
 <meta property="article:author" content="IPCreator">
 <meta property="article:tag" content="Agent">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://hazyman.com/img/content/20201108007.jpeg">
 
 
-<link rel="canonical" href="http://coolipr.com/about/">
+<link rel="canonical" href="https://coolipr.com/about/">
 
 
 <script class="page-configurations">
@@ -354,6 +354,8 @@
 <li><a target="_blank" rel="noopener" href="https://www.aliyun.com/?spm=5176.100251.aliyun_topbar.1.3a404f15br76zG">阿里云</a></li>
 <li><a target="_blank" rel="noopener" href="https://sg.godaddy.com/zh">GoDaddy</a></li>
 <li><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/35668237">超详细Hexo+Github博客搭建小白教程</a></li>
+<li><a target="_blank" rel="noopener" href="https://blog.csdn.net/itechzero/article/details/72784218">Github Pages 个人域名完美支持https</a></li>
+<li><a target="_blank" rel="noopener" href="https://livere.com/">韩国来比力livere评论系统</a></li>
 <li><a target="_blank" rel="noopener" href="https://convertio.co/zh/">文件转换器</a></li>
 </ol>
 <h4 id="ipcreator2021"><a href="#ipcreator2021" class="headerlink" title="ipcreator2021"></a><a target="_blank" rel="noopener" href="https://github.com/ipcreator2021">ipcreator2021</a></h4><p><img data-src="/img/profile-joined-github.jpg"></p>
@@ -379,7 +381,11 @@
     
 
 
-    <div class="comments" id="gitalk-container"></div>
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjE1Ny8yODYzNw"></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -510,28 +516,24 @@
       quicklink.listen({
         timeout : 3000,
         priority: true,
-        ignores : [uri => uri.includes('#'),uri => uri === 'http://coolipr.com/about/',]
+        ignores : [uri => uri.includes('#'),uri => uri === 'https://coolipr.com/about/',]
       });
       });
   </script>
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.css">
-
 <script>
-NexT.utils.loadComments('#gitalk-container', () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'b52b892261088c22dfa8',
-      clientSecret: '1f7d585b9d5a2c453c777394efa1c411497f5471',
-      repo        : 'comments',
-      owner       : 'ipcreator2021',
-      admin       : ['ipcreator2021'],
-      id          : '3be7aa98d992907175cbd79c194399f2',
-        language: 'en',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
+NexT.utils.loadComments('#lv-container', () => {
+  window.livereOptions = {
+    refer: "about/"
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
 });
 </script>
 

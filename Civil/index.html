@@ -29,21 +29,21 @@
 <meta name="description" content="诚信原则，契约精神。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Civil">
-<meta property="og:url" content="http://coolipr.com/Civil/index.html">
+<meta property="og:url" content="https://coolipr.com/Civil/index.html">
 <meta property="og:site_name" content="CoolIPer">
 <meta property="og:description" content="诚信原则，契约精神。">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="http://coolipr.com/img/CivilLawCover.jpg">
+<meta property="og:image" content="https://coolipr.com/img/CivilLawCover.jpg">
 <meta property="article:published_time" content="2020-12-06T08:08:00.000Z">
 <meta property="article:modified_time" content="2020-12-06T10:21:46.862Z">
 <meta property="article:author" content="IPCreator">
 <meta property="article:tag" content="Law">
 <meta property="article:tag" content="Civil">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://coolipr.com/img/CivilLawCover.jpg">
+<meta name="twitter:image" content="https://coolipr.com/img/CivilLawCover.jpg">
 
 
-<link rel="canonical" href="http://coolipr.com/Civil/">
+<link rel="canonical" href="https://coolipr.com/Civil/">
 
 
 <script class="page-configurations">
@@ -293,7 +293,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://coolipr.com/Civil/">
+    <link itemprop="mainEntityOfPage" href="https://coolipr.com/Civil/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/img/avataaars.png">
@@ -538,7 +538,11 @@
 
 
 
-    <div class="comments" id="gitalk-container"></div>
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjE1Ny8yODYzNw"></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -669,28 +673,24 @@
       quicklink.listen({
         timeout : 3000,
         priority: true,
-        ignores : [uri => uri.includes('#'),uri => uri === 'http://coolipr.com/Civil/',]
+        ignores : [uri => uri.includes('#'),uri => uri === 'https://coolipr.com/Civil/',]
       });
       });
   </script>
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.css">
-
 <script>
-NexT.utils.loadComments('#gitalk-container', () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1.7.0/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : 'b52b892261088c22dfa8',
-      clientSecret: '1f7d585b9d5a2c453c777394efa1c411497f5471',
-      repo        : 'comments',
-      owner       : 'ipcreator2021',
-      admin       : ['ipcreator2021'],
-      id          : 'af068ccd7515a840c5aad31cbb98253a',
-        language: 'en',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
+NexT.utils.loadComments('#lv-container', () => {
+  window.livereOptions = {
+    refer: "Civil/"
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
 });
 </script>
 

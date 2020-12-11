@@ -107,8 +107,6 @@
             
             <tag> Law </tag>
             
-            <tag> Practice </tag>
-            
             <tag> Europe </tag>
             
             <tag> America </tag>
@@ -116,6 +114,8 @@
             <tag> India </tag>
             
             <tag> Africa </tag>
+            
+            <tag> Practice </tag>
             
             <tag> China </tag>
             
@@ -144,8 +144,6 @@
             
             <tag> Law </tag>
             
-            <tag> Practice </tag>
-            
             <tag> Europe </tag>
             
             <tag> America </tag>
@@ -153,6 +151,8 @@
             <tag> India </tag>
             
             <tag> Africa </tag>
+            
+            <tag> Practice </tag>
             
         </tags>
       
@@ -179,13 +179,13 @@
             
             <tag> Law </tag>
             
-            <tag> Practice </tag>
-            
             <tag> Europe </tag>
             
             <tag> America </tag>
             
             <tag> India </tag>
+            
+            <tag> Practice </tag>
             
         </tags>
       
@@ -212,11 +212,11 @@
             
             <tag> Law </tag>
             
-            <tag> Practice </tag>
-            
             <tag> Europe </tag>
             
             <tag> America </tag>
+            
+            <tag> Practice </tag>
             
         </tags>
       
@@ -243,9 +243,9 @@
             
             <tag> Law </tag>
             
-            <tag> Practice </tag>
-            
             <tag> America </tag>
+            
+            <tag> Practice </tag>
             
         </tags>
       
@@ -301,9 +301,9 @@
             
             <tag> Law </tag>
             
-            <tag> Exhibition </tag>
-            
             <tag> Practice </tag>
+            
+            <tag> Exhibition </tag>
             
         </tags>
       
@@ -328,8 +328,6 @@
       
         <tags>
             
-            <tag> Law </tag>
-            
             <tag> SEP </tag>
             
             <tag> Infringement </tag>
@@ -341,6 +339,8 @@
             <tag> Acquisition </tag>
             
             <tag> Diligence </tag>
+            
+            <tag> Law </tag>
             
         </tags>
       
@@ -365,8 +365,6 @@
       
         <tags>
             
-            <tag> Law </tag>
-            
             <tag> SEP </tag>
             
             <tag> Infringement </tag>
@@ -374,6 +372,8 @@
             <tag> Licence </tag>
             
             <tag> Royalty </tag>
+            
+            <tag> Law </tag>
             
         </tags>
       
@@ -398,13 +398,13 @@
       
         <tags>
             
-            <tag> Law </tag>
-            
             <tag> SEP </tag>
             
             <tag> Licence </tag>
             
             <tag> Royalty </tag>
+            
+            <tag> Law </tag>
             
         </tags>
       
@@ -460,9 +460,9 @@
       
         <tags>
             
-            <tag> Law </tag>
-            
             <tag> SEP </tag>
+            
+            <tag> Law </tag>
             
         </tags>
       
@@ -788,9 +788,9 @@
       
         <tags>
             
-            <tag> Policy </tag>
-            
             <tag> Law </tag>
+            
+            <tag> Policy </tag>
             
         </tags>
       

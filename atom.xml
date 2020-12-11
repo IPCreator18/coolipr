@@ -3,11 +3,11 @@
   <title>CoolIPer</title>
   
   
-  <link href="http://coolipr.com/atom.xml" rel="self"/>
+  <link href="https://coolipr.com/atom.xml" rel="self"/>
   
-  <link href="http://coolipr.com/"/>
+  <link href="https://coolipr.com/"/>
   <updated>2020-12-10T11:55:03.914Z</updated>
-  <id>http://coolipr.com/</id>
+  <id>https://coolipr.com/</id>
   
   <author>
     <name>IPCreator</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Design</title>
-    <link href="http://coolipr.com/Design/"/>
-    <id>http://coolipr.com/Design/</id>
+    <link href="https://coolipr.com/Design/"/>
+    <id>https://coolipr.com/Design/</id>
     <published>2020-12-10T11:48:00.000Z</published>
     <updated>2020-12-10T11:55:03.914Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
-    <category term="Design" scheme="http://coolipr.com/tags/Design/"/>
+    <category term="Design" scheme="https://coolipr.com/tags/Design/"/>
     
   </entry>
   
   <entry>
     <title>WIPO</title>
-    <link href="http://coolipr.com/WIPO/"/>
-    <id>http://coolipr.com/WIPO/</id>
+    <link href="https://coolipr.com/WIPO/"/>
+    <id>https://coolipr.com/WIPO/</id>
     <published>2020-12-10T11:23:00.000Z</published>
     <updated>2020-12-10T11:28:37.837Z</updated>
     
@@ -61,21 +61,21 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
-    <category term="WIPO" scheme="http://coolipr.com/tags/WIPO/"/>
+    <category term="WIPO" scheme="https://coolipr.com/tags/WIPO/"/>
     
   </entry>
   
   <entry>
     <title>Agent</title>
-    <link href="http://coolipr.com/Agent/"/>
-    <id>http://coolipr.com/Agent/</id>
+    <link href="https://coolipr.com/Agent/"/>
+    <id>https://coolipr.com/Agent/</id>
     <published>2020-12-10T11:08:00.000Z</published>
     <updated>2020-12-10T11:11:52.738Z</updated>
     
@@ -89,19 +89,19 @@
     
     
     
-    <category term="Agent" scheme="http://coolipr.com/categories/Agent/"/>
+    <category term="Agent" scheme="https://coolipr.com/categories/Agent/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="China" scheme="http://coolipr.com/tags/China/"/>
+    <category term="China" scheme="https://coolipr.com/tags/China/"/>
     
   </entry>
   
   <entry>
     <title>China</title>
-    <link href="http://coolipr.com/China/"/>
-    <id>http://coolipr.com/China/</id>
+    <link href="https://coolipr.com/China/"/>
+    <id>https://coolipr.com/China/</id>
     <published>2020-12-10T11:06:00.000Z</published>
     <updated>2020-12-10T12:10:02.287Z</updated>
     
@@ -115,29 +115,29 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Europe" scheme="https://coolipr.com/tags/Europe/"/>
     
-    <category term="Europe" scheme="http://coolipr.com/tags/Europe/"/>
+    <category term="America" scheme="https://coolipr.com/tags/America/"/>
     
-    <category term="America" scheme="http://coolipr.com/tags/America/"/>
+    <category term="India" scheme="https://coolipr.com/tags/India/"/>
     
-    <category term="India" scheme="http://coolipr.com/tags/India/"/>
+    <category term="Africa" scheme="https://coolipr.com/tags/Africa/"/>
     
-    <category term="Africa" scheme="http://coolipr.com/tags/Africa/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
-    <category term="China" scheme="http://coolipr.com/tags/China/"/>
+    <category term="China" scheme="https://coolipr.com/tags/China/"/>
     
   </entry>
   
   <entry>
     <title>Africa</title>
-    <link href="http://coolipr.com/Africa/"/>
-    <id>http://coolipr.com/Africa/</id>
+    <link href="https://coolipr.com/Africa/"/>
+    <id>https://coolipr.com/Africa/</id>
     <published>2020-12-10T11:04:00.000Z</published>
     <updated>2020-12-10T11:06:06.338Z</updated>
     
@@ -151,27 +151,27 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Europe" scheme="https://coolipr.com/tags/Europe/"/>
     
-    <category term="Europe" scheme="http://coolipr.com/tags/Europe/"/>
+    <category term="America" scheme="https://coolipr.com/tags/America/"/>
     
-    <category term="America" scheme="http://coolipr.com/tags/America/"/>
+    <category term="India" scheme="https://coolipr.com/tags/India/"/>
     
-    <category term="India" scheme="http://coolipr.com/tags/India/"/>
+    <category term="Africa" scheme="https://coolipr.com/tags/Africa/"/>
     
-    <category term="Africa" scheme="http://coolipr.com/tags/Africa/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
   </entry>
   
   <entry>
     <title>India</title>
-    <link href="http://coolipr.com/India/"/>
-    <id>http://coolipr.com/India/</id>
+    <link href="https://coolipr.com/India/"/>
+    <id>https://coolipr.com/India/</id>
     <published>2020-12-10T11:02:00.000Z</published>
     <updated>2020-12-10T11:04:14.200Z</updated>
     
@@ -185,25 +185,25 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Europe" scheme="https://coolipr.com/tags/Europe/"/>
     
-    <category term="Europe" scheme="http://coolipr.com/tags/Europe/"/>
+    <category term="America" scheme="https://coolipr.com/tags/America/"/>
     
-    <category term="America" scheme="http://coolipr.com/tags/America/"/>
+    <category term="India" scheme="https://coolipr.com/tags/India/"/>
     
-    <category term="India" scheme="http://coolipr.com/tags/India/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
   </entry>
   
   <entry>
     <title>Europe</title>
-    <link href="http://coolipr.com/Europe/"/>
-    <id>http://coolipr.com/Europe/</id>
+    <link href="https://coolipr.com/Europe/"/>
+    <id>https://coolipr.com/Europe/</id>
     <published>2020-12-10T11:00:00.000Z</published>
     <updated>2020-12-10T11:02:08.804Z</updated>
     
@@ -217,23 +217,23 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Europe" scheme="https://coolipr.com/tags/Europe/"/>
     
-    <category term="Europe" scheme="http://coolipr.com/tags/Europe/"/>
+    <category term="America" scheme="https://coolipr.com/tags/America/"/>
     
-    <category term="America" scheme="http://coolipr.com/tags/America/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
   </entry>
   
   <entry>
     <title>America</title>
-    <link href="http://coolipr.com/America/"/>
-    <id>http://coolipr.com/America/</id>
+    <link href="https://coolipr.com/America/"/>
+    <id>https://coolipr.com/America/</id>
     <published>2020-12-10T10:56:00.000Z</published>
     <updated>2020-12-10T11:35:28.272Z</updated>
     
@@ -247,21 +247,21 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="America" scheme="https://coolipr.com/tags/America/"/>
     
-    <category term="America" scheme="http://coolipr.com/tags/America/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
   </entry>
   
   <entry>
     <title>Privacy</title>
-    <link href="http://coolipr.com/Privacy/"/>
-    <id>http://coolipr.com/Privacy/</id>
+    <link href="https://coolipr.com/Privacy/"/>
+    <id>https://coolipr.com/Privacy/</id>
     <published>2020-12-10T10:37:00.000Z</published>
     <updated>2020-12-10T10:45:33.072Z</updated>
     
@@ -275,21 +275,21 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
-    <category term="Privacy" scheme="http://coolipr.com/tags/Privacy/"/>
+    <category term="Privacy" scheme="https://coolipr.com/tags/Privacy/"/>
     
   </entry>
   
   <entry>
     <title>Exhibition</title>
-    <link href="http://coolipr.com/Exhibition/"/>
-    <id>http://coolipr.com/Exhibition/</id>
+    <link href="https://coolipr.com/Exhibition/"/>
+    <id>https://coolipr.com/Exhibition/</id>
     <published>2020-12-08T11:51:00.000Z</published>
     <updated>2020-12-08T11:57:42.049Z</updated>
     
@@ -303,21 +303,21 @@
     
     
     
-    <category term="Practice" scheme="http://coolipr.com/categories/Practice/"/>
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Exhibition" scheme="http://coolipr.com/tags/Exhibition/"/>
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
     
-    <category term="Practice" scheme="http://coolipr.com/tags/Practice/"/>
+    <category term="Exhibition" scheme="https://coolipr.com/tags/Exhibition/"/>
     
   </entry>
   
   <entry>
     <title>Acquisition</title>
-    <link href="http://coolipr.com/Acquisition/"/>
-    <id>http://coolipr.com/Acquisition/</id>
+    <link href="https://coolipr.com/Acquisition/"/>
+    <id>https://coolipr.com/Acquisition/</id>
     <published>2020-12-06T08:36:00.000Z</published>
     <updated>2020-12-06T08:38:24.104Z</updated>
     
@@ -331,29 +331,29 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
-    <category term="SEP" scheme="http://coolipr.com/tags/SEP/"/>
+    <category term="Infringement" scheme="https://coolipr.com/tags/Infringement/"/>
     
-    <category term="Infringement" scheme="http://coolipr.com/tags/Infringement/"/>
+    <category term="Licence" scheme="https://coolipr.com/tags/Licence/"/>
     
-    <category term="Licence" scheme="http://coolipr.com/tags/Licence/"/>
+    <category term="Royalty" scheme="https://coolipr.com/tags/Royalty/"/>
     
-    <category term="Royalty" scheme="http://coolipr.com/tags/Royalty/"/>
+    <category term="Acquisition" scheme="https://coolipr.com/tags/Acquisition/"/>
     
-    <category term="Acquisition" scheme="http://coolipr.com/tags/Acquisition/"/>
+    <category term="Diligence" scheme="https://coolipr.com/tags/Diligence/"/>
     
-    <category term="Diligence" scheme="http://coolipr.com/tags/Diligence/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
   </entry>
   
   <entry>
     <title>Infringement</title>
-    <link href="http://coolipr.com/Infringement/"/>
-    <id>http://coolipr.com/Infringement/</id>
+    <link href="https://coolipr.com/Infringement/"/>
+    <id>https://coolipr.com/Infringement/</id>
     <published>2020-12-06T08:34:00.000Z</published>
     <updated>2020-12-06T08:35:22.641Z</updated>
     
@@ -367,25 +367,25 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
-    <category term="SEP" scheme="http://coolipr.com/tags/SEP/"/>
+    <category term="Infringement" scheme="https://coolipr.com/tags/Infringement/"/>
     
-    <category term="Infringement" scheme="http://coolipr.com/tags/Infringement/"/>
+    <category term="Licence" scheme="https://coolipr.com/tags/Licence/"/>
     
-    <category term="Licence" scheme="http://coolipr.com/tags/Licence/"/>
+    <category term="Royalty" scheme="https://coolipr.com/tags/Royalty/"/>
     
-    <category term="Royalty" scheme="http://coolipr.com/tags/Royalty/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
   </entry>
   
   <entry>
     <title>Licence</title>
-    <link href="http://coolipr.com/License/"/>
-    <id>http://coolipr.com/License/</id>
+    <link href="https://coolipr.com/License/"/>
+    <id>https://coolipr.com/License/</id>
     <published>2020-12-06T08:27:00.000Z</published>
     <updated>2020-12-06T08:35:43.589Z</updated>
     
@@ -399,23 +399,23 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
-    <category term="SEP" scheme="http://coolipr.com/tags/SEP/"/>
+    <category term="Licence" scheme="https://coolipr.com/tags/Licence/"/>
     
-    <category term="Licence" scheme="http://coolipr.com/tags/Licence/"/>
+    <category term="Royalty" scheme="https://coolipr.com/tags/Royalty/"/>
     
-    <category term="Royalty" scheme="http://coolipr.com/tags/Royalty/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
   </entry>
   
   <entry>
     <title>Customs</title>
-    <link href="http://coolipr.com/Customs/"/>
-    <id>http://coolipr.com/Customs/</id>
+    <link href="https://coolipr.com/Customs/"/>
+    <id>https://coolipr.com/Customs/</id>
     <published>2020-12-06T08:21:00.000Z</published>
     <updated>2020-12-06T09:36:47.408Z</updated>
     
@@ -429,23 +429,23 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Customs" scheme="http://coolipr.com/tags/Customs/"/>
+    <category term="Customs" scheme="https://coolipr.com/tags/Customs/"/>
     
-    <category term="Import" scheme="http://coolipr.com/tags/Import/"/>
+    <category term="Import" scheme="https://coolipr.com/tags/Import/"/>
     
-    <category term="Export" scheme="http://coolipr.com/tags/Export/"/>
+    <category term="Export" scheme="https://coolipr.com/tags/Export/"/>
     
   </entry>
   
   <entry>
     <title>SEP</title>
-    <link href="http://coolipr.com/SEP/"/>
-    <id>http://coolipr.com/SEP/</id>
+    <link href="https://coolipr.com/SEP/"/>
+    <id>https://coolipr.com/SEP/</id>
     <published>2020-12-06T08:18:00.000Z</published>
     <updated>2020-12-10T11:36:50.574Z</updated>
     
@@ -459,19 +459,19 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
-    <category term="SEP" scheme="http://coolipr.com/tags/SEP/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
   </entry>
   
   <entry>
     <title>Administration</title>
-    <link href="http://coolipr.com/Administration/"/>
-    <id>http://coolipr.com/Administration/</id>
+    <link href="https://coolipr.com/Administration/"/>
+    <id>https://coolipr.com/Administration/</id>
     <published>2020-12-06T08:11:00.000Z</published>
     <updated>2020-12-06T10:10:29.514Z</updated>
     
@@ -485,19 +485,19 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Administration" scheme="http://coolipr.com/tags/Administration/"/>
+    <category term="Administration" scheme="https://coolipr.com/tags/Administration/"/>
     
   </entry>
   
   <entry>
     <title>Civil</title>
-    <link href="http://coolipr.com/Civil/"/>
-    <id>http://coolipr.com/Civil/</id>
+    <link href="https://coolipr.com/Civil/"/>
+    <id>https://coolipr.com/Civil/</id>
     <published>2020-12-06T08:08:00.000Z</published>
     <updated>2020-12-06T10:21:46.862Z</updated>
     
@@ -511,19 +511,19 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Civil" scheme="http://coolipr.com/tags/Civil/"/>
+    <category term="Civil" scheme="https://coolipr.com/tags/Civil/"/>
     
   </entry>
   
   <entry>
     <title>Contract</title>
-    <link href="http://coolipr.com/Contract/"/>
-    <id>http://coolipr.com/Contract/</id>
+    <link href="https://coolipr.com/Contract/"/>
+    <id>https://coolipr.com/Contract/</id>
     <published>2020-12-06T08:06:00.000Z</published>
     <updated>2020-12-06T08:17:26.219Z</updated>
     
@@ -537,19 +537,19 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Contract" scheme="http://coolipr.com/tags/Contract/"/>
+    <category term="Contract" scheme="https://coolipr.com/tags/Contract/"/>
     
   </entry>
   
   <entry>
     <title>Secret</title>
-    <link href="http://coolipr.com/Secret/"/>
-    <id>http://coolipr.com/Secret/</id>
+    <link href="https://coolipr.com/Secret/"/>
+    <id>https://coolipr.com/Secret/</id>
     <published>2020-12-06T08:01:00.000Z</published>
     <updated>2020-12-10T11:56:16.370Z</updated>
     
@@ -563,19 +563,19 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Secret" scheme="http://coolipr.com/tags/Secret/"/>
+    <category term="Secret" scheme="https://coolipr.com/tags/Secret/"/>
     
   </entry>
   
   <entry>
     <title>Competition</title>
-    <link href="http://coolipr.com/Competition/"/>
-    <id>http://coolipr.com/Competition/</id>
+    <link href="https://coolipr.com/Competition/"/>
+    <id>https://coolipr.com/Competition/</id>
     <published>2020-12-06T07:59:00.000Z</published>
     <updated>2020-12-08T11:37:49.770Z</updated>
     
@@ -589,12 +589,12 @@
     
     
     
-    <category term="Law" scheme="http://coolipr.com/categories/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
     
     
-    <category term="Law" scheme="http://coolipr.com/tags/Law/"/>
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
     
-    <category term="Competition" scheme="http://coolipr.com/tags/Competition/"/>
+    <category term="Competition" scheme="https://coolipr.com/tags/Competition/"/>
     
   </entry>
   
