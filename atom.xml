@@ -6,7 +6,7 @@
   <link href="https://coolipr.com/atom.xml" rel="self"/>
   
   <link href="https://coolipr.com/"/>
-  <updated>2020-12-13T03:39:57.636Z</updated>
+  <updated>2020-12-13T06:59:40.075Z</updated>
   <id>https://coolipr.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Asset</title>
+    <link href="https://coolipr.com/Asset.html"/>
+    <id>https://coolipr.com/Asset.html</id>
+    <published>2020-12-13T06:55:00.000Z</published>
+    <updated>2020-12-13T06:59:40.075Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/img/AssetCover.png"></p><blockquote><p>知识产权是一种无形资产。Intellectual property is an intangible asset.</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/AssetCover.png&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;知识产权是一种无形资产。Intellectual property is an intangible asset.&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
+    
+    
+    <category term="Business" scheme="https://coolipr.com/tags/Business/"/>
+    
+    <category term="Asset" scheme="https://coolipr.com/tags/Asset/"/>
+    
+  </entry>
   
   <entry>
     <title>Business</title>
@@ -579,36 +605,6 @@
     <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
     <category term="Infringement" scheme="https://coolipr.com/tags/Infringement/"/>
-    
-    <category term="Licence" scheme="https://coolipr.com/tags/Licence/"/>
-    
-    <category term="Royalty" scheme="https://coolipr.com/tags/Royalty/"/>
-    
-    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Licence</title>
-    <link href="https://coolipr.com/License.html"/>
-    <id>https://coolipr.com/License.html</id>
-    <published>2020-12-06T08:27:00.000Z</published>
-    <updated>2020-12-06T08:35:43.589Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/img/License-a-patent-for-royalties.jpg"></p><blockquote><p>NDA–&gt;技术–&gt;商务–&gt;签约。</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/License-a-patent-for-royalties.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;NDA–&amp;gt;技术–&amp;gt;商务–&amp;gt;签约。&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Law" scheme="https://coolipr.com/categories/Law/"/>
-    
-    
-    <category term="SEP" scheme="https://coolipr.com/tags/SEP/"/>
     
     <category term="Licence" scheme="https://coolipr.com/tags/Licence/"/>
     
