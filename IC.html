@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/CoolIPR.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/CoolIPR.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/CoolIPR.png">
+  <link rel="mask-icon" href="/img/CoolIPR.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/css/all.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.css">
+  <script src="//cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.js"></script>
+
+<script class="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"coolipr.com","root":"/","images":"/images","scheme":"Muse","version":"8.1.0","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+  </script>
+<meta name="description" content="Integrated Circuit。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="IC">
+<meta property="og:url" content="https://coolipr.com/IC.html">
+<meta property="og:site_name" content="CoolIPer">
+<meta property="og:description" content="Integrated Circuit。">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://coolipr.com/img/IntegratedCircuitCover.jpg">
+<meta property="article:published_time" content="2020-12-16T15:30:00.000Z">
+<meta property="article:modified_time" content="2020-12-16T11:26:09.361Z">
+<meta property="article:author" content="IPCreator">
+<meta property="article:tag" content="Practice">
+<meta property="article:tag" content="Patent">
+<meta property="article:tag" content="IC">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://coolipr.com/img/IntegratedCircuitCover.jpg">
+
+
+<link rel="canonical" href="https://coolipr.com/IC.html">
+
+
+<script class="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+<title>IC | CoolIPer</title>
+  
+
+
+
+  <noscript>
+  <style>
+  body { margin-top: 2rem; }
+
+  .use-motion .menu-item,
+  .use-motion .sidebar,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header {
+    visibility: visible;
+  }
+
+  .use-motion .header,
+  .use-motion .site-brand-container .toggle,
+  .use-motion .footer { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle,
+  .use-motion .custom-logo-image {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line {
+    transform: scaleX(1);
+  }
+
+  .search-pop-overlay, .sidebar-nav { display: none; }
+  .sidebar-panel { display: block; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="CoolIPer" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <h1 class="site-title">CoolIPer</h1>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <section class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Why"><span class="nav-number">1.</span> <span class="nav-text">Why</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%8A%AF%E7%89%87%E5%A4%A7%E6%88%98-%E6%8A%80%E6%9C%AF%E4%B9%8B%E4%BA%89%EF%BC%8C%E2%80%9C%E8%8A%AF%E2%80%9D%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E4%BF%9D%E6%8A%A4%E5%90%97%EF%BC%9F"><span class="nav-number">1.1.</span> <span class="nav-text">芯片大战&#x3D;技术之争，“芯”企业，你真的了解知识产权保护吗？</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#What"><span class="nav-number">2.</span> <span class="nav-text">What</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How"><span class="nav-number">3.</span> <span class="nav-text">How</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Experience"><span class="nav-number">4.</span> <span class="nav-text">Experience</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Reference"><span class="nav-number">5.</span> <span class="nav-text">Reference</span></a></li></ol></div>
+        </section>
+        <!--/noindex-->
+
+        <section class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="IPCreator"
+      src="/img/CoolIPR.png">
+  <p class="site-author-name" itemprop="name">IPCreator</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">52</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">7</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">63</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="http://blog.163.com/zhuxuanlv@126/" title="163Blog → http:&#x2F;&#x2F;blog.163.com&#x2F;zhuxuanlv@126&#x2F;" rel="noopener" target="_blank"><i class="fab fa-skype fa-fw"></i>163Blog</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
+      </span>
+  </div>
+
+
+
+        </section>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+  <a href="https://github.com/ipcreator2021" class="github-corner" title="CoolIPer" aria-label="CoolIPer" rel="noopener" target="_blank"><svg width="80" height="80" viewBox="0 0 250 250" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://coolipr.com/IC.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/img/CoolIPR.png">
+      <meta itemprop="name" content="IPCreator">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="CoolIPer">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          IC
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Practice/" itemprop="url" rel="index"><span itemprop="name">Practice</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p><img data-src="/img/IntegratedCircuitCover.jpg"></p>
+<blockquote>
+<p>Integrated Circuit。</p>
+</blockquote>
+<a id="more"></a>
+
+<h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h3 id="芯片大战-技术之争，“芯”企业，你真的了解知识产权保护吗？"><a href="#芯片大战-技术之争，“芯”企业，你真的了解知识产权保护吗？" class="headerlink" title="芯片大战=技术之争，“芯”企业，你真的了解知识产权保护吗？"></a><a target="_blank" rel="noopener" href="https://www.sohu.com/a/368058992_523420?spm=smpc.author.fd-d.55.1608100540838R98WzTI">芯片大战=技术之争，“芯”企业，你真的了解知识产权保护吗？</a></h3><p>随着芯片产业的飞速发展，越来越多的企业开始重视集成电路布图设计，正是由于集成电路技术的不断改进，才使得计算机的体积越来越小、质量越来越轻及智能越来越卓越。因此，掌握集成电路布图设计的知识并熟悉集成电路布图设计的司法保护策略，对于这些企业来说显得尤为重要。</p>
+<p>1、集成电路布图设计与其它知识产权的关系</p>
+<p>集成电路布图设计与“专利”或“著作权”存在较大的区别，其价值主要体现在“实用功能”、“技术因素”上，实用、进步为获得保护的考虑因素，对独创性的要求较高，而“著作权”并没有上述要求。同时，该设计实质上是一种图形设计，具体是指工程方面的图形设计，与“外观”所要求保护的内容不同；另外，表达的是电子元件的立体布局，因此，与“实用新型”要保护的内容也不相同。而由于“发明”对创造性的要求很高，布图设计一般很难达到这么高的创造性要求，故布图设计亦不同于“发明”专利。</p>
+<p>鉴于布图设计是一种独立的知识产权客体，纵观全世界，绝大多数国家都不是通过“专利法”或者“著作权法”来保护的，而是依据其自己单独的特色来制定单行方向的法规，将其作为独立的客体来保护。2001年10月1日起，我国开始施行关于布图设计的专门保护条例，也就是说从那时候开始，我国采用了专门的立法来保护集成电路布图设计。</p>
+<p>目前，我国关于布图设计保护方面的相关法律法规主要包括：</p>
+<p>《集成电路布图设计保护条例》、《集成电路布图设计保护条例实施细则》和《集成电路布图设计行政执法办法》。</p>
+<p>2、布图设计权利的取得与保护范围的认定</p>
+<p>（1）布图设计权利的取得</p>
+<p>我国采取登记制，也就是说，在完成创作之后，创作者需要向国家的相关部门办理登记手续后，才能获得专有权。</p>
+<p>（2）布图设计保护范围的认定</p>
+<p>知识产权中的“发明”、“实用新型”通过权利要求来确定这类知识产权的保护范围；“外观”通过图片或者照片中呈现的产品来确定保护范围。同理，布图设计作为知识产权的一种，也应当有明确的保护范围，这也符合公众利益。 根据相关规定，布图设计的保护范围，应当以布图设计授权文件中确定的三维配置为依据来确定，权利人在申请登记的时候需要提交多种形式的材料，如“纸质的图样”、“图样的电子版本”、“芯片的样品”，通过上述三种材料确定布图设计的保护范围。</p>
+<p>（3）司法案例</p>
+<p>原告“昂宝公司”与被告“智浦芯联公司”之间的纠纷案中原告进行专有权登记时，只提交了纸质的图样和芯片的样品， 并没有提交图样的电子版本。原告要求以芯片的样品中的版图为保护范围，诉被告智浦芯联公司侵犯其专有权。二审法院认为，原告在申请登记时提交的图样仅包含两层金属层，该图样中没有有源元件，同时原告也“没有提交完整齐备的图样”，那么原告的申请资料有瑕疵。虽然原告申请登记时提交了芯片的样品，但是“不能依据该样品确定布图设计专有权的保护范围”，因为这样将变相鼓励布图设计申请人只提交样品，进而违反了登记制度的设置初衷，因此二审法院判决驳回了原告（昂宝公司）的诉讼请求。该案件后续还经过了再审，但是再审法院认为，不考虑图样，直接通过样品确定布图设计的保护范围的话，会使布图设计登记制度中的 “社会公众可以通过查阅方式获知布图设计内容”这一条款形同虚设，因此，再审法院最终裁定驳回原告（昂宝公司）的再审请求。</p>
+<p>3、司法方面的保护</p>
+<p>（1）侵权的判定</p>
+<p>a．复制方面侵权的判定</p>
+<p>复制侵权包括：完全的复制侵权、部分的复制侵权。</p>
+<p>在我国的司法实践中，目前主要的观点是：侵权产品不需要与被侵权产品完全一致，侵权产品如果复制了被侵权产品中的核心部分，那么，侵权行为就是成立的。</p>
+<p>b．商业利用方面侵权的判定</p>
+<p>我国的相关保护条例规定：以“商业利用”为目的，通过“销售”、“进口”等其他手段提供与布图设计相关的资料或者产品的行为都属于侵权。在实践当中，与“复制方面侵权”的认定相比较，认定“商业利用方面的侵权”一般较容易。</p>
+<p>（2）救济途径</p>
+<p>对侵犯该类型的知识产权的救济，我国主要采取了两种方式：一种为“行政方面”的救济，另一种为“司法方面”的救济。</p>
+<p>a．行政方面的救济</p>
+<p>我国的相关法律规定，在发生纠纷后，先可以由“当事人之间”来协商解决，若当事人之间协商不成的，可以到国务院的相关行政部门去请求处理。</p>
+<p>b．司法方面的救济</p>
+<p>保护条例为权利人提供了司法方面的救济途径。</p>
+<p>目前的保护条例主要规定了两种责任：一种是“停止侵权”方面的责任，另外一种是“赔偿损失”方面的责任。</p>
+<p>其中，赔偿损失中的赔偿数额一般为“被控侵权方所获得的利益”，或者，也可以为“被侵权人所遭受到的损失”，其中，“所遭受到的损失”包括被侵权人在制止侵权行为过程中所支付的合理开支。</p>
+<p>（3）不侵权抗辩</p>
+<p>a．采用“自主独立创作”进行不侵权抗辩</p>
+<p>我国的相关条例中明确规定了，对于“自主+独立”创作的设计，如果该设计和已有的设计相同，那么当事人的使用行为并不构成侵权。</p>
+<p>b．采用“反向工程”进行不侵权抗辩</p>
+<p>“反向工程”是指通过一定的技术手段，逆向推导出产品的工作原理，从而研发出该产品的过程。对于布图设计的反向工程的态度，不仅我国如此，目前大多数国家均认为是合法的。</p>
+<p>c．采用“权利用尽”进行不侵权抗辩</p>
+<p>d．采用“合理使用”进行不侵权抗辩</p>
+<p>我国的相关法律规定，为了非营利目的去“复制设计”，如为了教学研究等目的，可以不经过专有权人的同意，也不需要向专有权人支付报酬，该项规定平衡了“权利人”与“公众”之间的利益。</p>
+<p>e．采用“强制许可”进行不侵权抗辩</p>
+<p>“强制许可”方面的不侵权抗辩是指，国家相关部门可以在不经过专有权人许可的情况下，直接授权他人使用享有权利的设计。</p>
+<p>如今，我国芯片产业正处于高速发展期，加强“集成电路布图设计”方面的保护力度，可以为芯片企业的发展保驾护航，从而激励更多的芯片企业大胆去创新，进而在“芯时代”下大展拳脚。</p>
+<h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>
+    </div>
+
+    
+    
+    
+      
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Practice/" rel="tag"><i class="fa fa-tag"></i> Practice</a>
+              <a href="/tags/Patent/" rel="tag"><i class="fa fa-tag"></i> Patent</a>
+              <a href="/tags/IC/" rel="tag"><i class="fa fa-tag"></i> IC</a>
+          </div>
+
+        
+  <div class="post-widgets">
+    <div class="wp_rating">
+      <div id="wpac-rating"></div>
+    </div>
+  </div>
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/Instrument.html" rel="prev" title="Instrument">
+                  <i class="fa fa-chevron-left"></i> Instrument
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjE1Ny8yODYzNw"></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      const activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      const commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">IPCreator</span>
+</div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="//cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1.16.0/dist/lozad.min.js"></script>
+<script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script><script src="/js/bookmark.js"></script>
+
+  
+
+  <script>
+  if (CONFIG.page.isPost) {
+    wpac_init = window.wpac_init || [];
+    wpac_init.push({
+      widget: 'Rating',
+      id    : 28499,
+      el    : 'wpac-rating',
+      color : '#fc6423'
+    });
+    (function() {
+      if ('WIDGETPACK_LOADED' in window) return;
+      WIDGETPACK_LOADED = true;
+      var mc = document.createElement('script');
+      mc.type = 'text/javascript';
+      mc.async = true;
+      mc.src = '//embed.widgetpack.com/widget.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+    })();
+  }
+  </script>
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+  <script>
+    NProgress.configure({
+      showSpinner: true
+    });
+    NProgress.start();
+    document.addEventListener('readystatechange', () => {
+      if (document.readyState === 'interactive') {
+        NProgress.inc(0.8);
+      }
+      if (document.readyState === 'complete') {
+        NProgress.done();
+      }
+    });
+    document.addEventListener('pjax:send', () => {
+      NProgress.start();
+    });
+    document.addEventListener('pjax:success', () => {
+      NProgress.done();
+    });
+  </script>
+
+  
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+
+
+  <script src="//cdn.jsdelivr.net/npm/quicklink@2.0.0/dist/quicklink.umd.js"></script>
+  <script>
+      window.addEventListener('load', () => {
+      quicklink.listen({
+        timeout : 3000,
+        priority: true,
+        ignores : [uri => uri.includes('#'),uri => uri === 'https://coolipr.com/IC.html',]
+      });
+      });
+  </script>
+
+<script>
+NexT.utils.loadComments('#lv-container', () => {
+  window.livereOptions = {
+    refer: "IC.html"
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>
