@@ -67,9 +67,9 @@
 <meta property="article:published_time" content="2020-12-19T06:01:00.000Z">
 <meta property="article:modified_time" content="2020-12-23T07:15:40.246Z">
 <meta property="article:author" content="IPCreator">
-<meta property="article:tag" content="Management">
-<meta property="article:tag" content="Theory">
 <meta property="article:tag" content="IPR">
+<meta property="article:tag" content="Theory">
+<meta property="article:tag" content="Management">
 <meta property="article:tag" content="Technology">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://coolipr.com/img/White-Large-scaled001.jpg">
@@ -361,6 +361,20 @@
       <span class="post-meta-item-text">Views: </span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/Technology.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/Technology.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 </div>
 
         </div>
@@ -531,9 +545,9 @@
 
     <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/Management/" rel="tag"><i class="fa fa-tag"></i> Management</a>
-              <a href="/tags/Theory/" rel="tag"><i class="fa fa-tag"></i> Theory</a>
               <a href="/tags/IPR/" rel="tag"><i class="fa fa-tag"></i> IPR</a>
+              <a href="/tags/Theory/" rel="tag"><i class="fa fa-tag"></i> Theory</a>
+              <a href="/tags/Management/" rel="tag"><i class="fa fa-tag"></i> Management</a>
               <a href="/tags/Technology/" rel="tag"><i class="fa fa-tag"></i> Technology</a>
           </div>
 
@@ -565,11 +579,7 @@
 
 
 
-    
-  <div class="comments">
-    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjE1Ny8yODYzNw"></div>
-  </div>
-  
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -706,18 +716,14 @@
   </script>
 
 <script>
-NexT.utils.loadComments('#lv-container', () => {
-  window.livereOptions = {
-    refer: "Technology.html"
-  };
-  (function(d, s) {
-    var j, e = d.getElementsByTagName(s)[0];
-    if (typeof LivereTower === 'function') { return; }
-    j = d.createElement(s);
-    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-    j.async = true;
-    e.parentNode.insertBefore(j, e);
-  })(document, 'script');
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"C75jI23HEPhTehiFhCvUSbJY-gzGzoHsz","appKey":"qy3Id9srq8HBxwKg3CVSdNNq","serverURLs":"https://coolipr.com","placeholder":"Just go go","avatar":"mm","meta":["nick"],"pageSize":10,"visitor":false,"comment_count":true,"recordIP":false}, {
+      el: '#valine-comments',
+      path: "/Technology.html",
+      serverURLs: "https://coolipr.com"
+    }));
+  }, window.Valine);
 });
 </script>
 

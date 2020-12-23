@@ -312,6 +312,20 @@
     </span>
 
   
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/Trend.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/Trend.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 </div>
 
         </div>
@@ -386,6 +400,20 @@
         </span>
     </span>
 
+  
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/Flag.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/Flag.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
   
 </div>
 
@@ -554,6 +582,17 @@
 
 
 
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"C75jI23HEPhTehiFhCvUSbJY-gzGzoHsz","appKey":"qy3Id9srq8HBxwKg3CVSdNNq","serverURLs":"https://coolipr.com","placeholder":"Just go go","avatar":"mm","meta":["nick"],"pageSize":10,"visitor":false,"comment_count":true,"recordIP":false}, {
+      el: '#valine-comments',
+      path: "/page/8/",
+      serverURLs: "https://coolipr.com"
+    }));
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>

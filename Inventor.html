@@ -334,6 +334,20 @@
       <span class="post-meta-item-text">Views: </span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/Inventor.html#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/Inventor.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 </div>
 
         </div>
@@ -423,13 +437,13 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/Obligee.html" rel="prev" title="Obligee">
-                  <i class="fa fa-chevron-left"></i> Obligee
+                <a href="/Portfolio.html" rel="prev" title="Portfolio">
+                  <i class="fa fa-chevron-left"></i> Portfolio
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/Portfolio.html" rel="next" title="Portfolio">
-                  Portfolio <i class="fa fa-chevron-right"></i>
+                <a href="/Jurisprudence.html" rel="next" title="Jurisprudence">
+                  Jurisprudence <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
           </div>
@@ -442,11 +456,7 @@
 
 
 
-    
-  <div class="comments">
-    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjE1Ny8yODYzNw"></div>
-  </div>
-  
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -583,18 +593,14 @@
   </script>
 
 <script>
-NexT.utils.loadComments('#lv-container', () => {
-  window.livereOptions = {
-    refer: "Inventor.html"
-  };
-  (function(d, s) {
-    var j, e = d.getElementsByTagName(s)[0];
-    if (typeof LivereTower === 'function') { return; }
-    j = d.createElement(s);
-    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-    j.async = true;
-    e.parentNode.insertBefore(j, e);
-  })(document, 'script');
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"C75jI23HEPhTehiFhCvUSbJY-gzGzoHsz","appKey":"qy3Id9srq8HBxwKg3CVSdNNq","serverURLs":"https://coolipr.com","placeholder":"Just go go","avatar":"mm","meta":["nick"],"pageSize":10,"visitor":false,"comment_count":true,"recordIP":false}, {
+      el: '#valine-comments',
+      path: "/Inventor.html",
+      serverURLs: "https://coolipr.com"
+    }));
+  }, window.Valine);
 });
 </script>
 
