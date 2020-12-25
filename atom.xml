@@ -6,7 +6,7 @@
   <link href="https://coolipr.com/atom.xml" rel="self"/>
   
   <link href="https://coolipr.com/"/>
-  <updated>2020-12-25T07:04:25.572Z</updated>
+  <updated>2020-12-25T08:14:21.477Z</updated>
   <id>https://coolipr.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Design Around</title>
+    <link href="https://coolipr.com/DesignAround.html"/>
+    <id>https://coolipr.com/DesignAround.html</id>
+    <published>2020-12-25T15:30:00.000Z</published>
+    <updated>2020-12-25T08:14:21.477Z</updated>
+    
+    <content type="html"><![CDATA[<p><img data-src="/img/Plan-B.jpeg"></p><blockquote><p>条条大道通罗马。</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h3 id="实施变劣技术方案不侵权专利案例之戴森科技"><a href="#实施变劣技术方案不侵权专利案例之戴森科技" class="headerlink" title="实施变劣技术方案不侵权专利案例之戴森科技"></a><a href="https://mp.weixin.qq.com/s/aA539_BY2T3X1WXGmkUNqQ">实施变劣技术方案不侵权专利案例之戴森科技</a></h3><p>当某技术方案比专利技术方案技术效果差，该某技术方案可以称为变劣技术方案。</p><p>典型案例</p><p>戴森技术有限公司（简称：戴森公司）与科沃斯机器人有限公司（简称：科沃斯公司）的专利侵权诉讼案<br>涉案专利名称：手持式清洁设备<br>涉案专利号：ZL200780027328.0<br>涉案专利权人：戴森技术有限公司<br>无效决定：维持有效</p><p>三份裁判文书</p><p>1、中华人民共和国江苏省苏州市中级人民法院（2010）苏中知民初字第00344号民事判决书<br>2、中华人民共和国江苏省高级人民法院(2015)苏知民终字第12341号民事判决书<br>3、中华人民共和国最高人民法院（2016）最高法民申2653号民事裁定书</p><p>戴森科技的授权专利独立权利要求<br>“一种手持式清洁设备，包括主体、脏空气入口、清洁空气出口和旋风分离器，该旋风分离器位于从空气入口到空气出口的空气流动路径中用于从空气流中将脏物和灰尘分离，该旋风分离器沿大致竖立方向设置，其中主体包括主体的上部和下部之间的把手，该上部承装马达和风扇单元，脏空气可以通过该马达和风扇单元而被抽入到设备中，下部限定主体的大致是平面的基部表面，下部承装电池单元，其在使用中为马达供电，其中，主体的大致是平面的基部表面和旋风分离器的大致是平面的基部表面一起形成设备的基部表面，以用于将设备支撑在一表面上，其中，主体的基部表面位于旋风分离器的基部表面的平面中，且其中马达和风扇单元和电池单元布置在主体的基部表面的上方。”<br>图片</p><p>简要通俗版权利要求<br>该权利要求技术方案包括五个元件：主体、旋风分离器、马达、风扇单元和电池单元，主体和旋风分离器分别设定基部表面，马达、风扇单元和电池单元构成组合X，组合X位于主体的基部表面的上方。</p><p>引发的问题：该权利要求保护范围包括组合X位于旋风分离器的基部表面的上方吗？</p><p>三级法院的判决均是：该权利要求的保护范围不包括组合X位于旋风分离器的基部表面的上方。</p><p>一审法院判决依据<br>“首先，关于涉案专利权利要求1中“主体”范围的界定，从权利要求1的表述，无法得出主体范围可以延伸至旋风分离器一侧，这也可以从涉案专利附图尤其是将主体以截面显示的附图4及说明书的实施例中得到印证。其次，权利要求中“主体的上部承装马达和风扇单元”及“主体下部承装电池单元”表明马达、风扇及电池必须放置于主体中，故“马达和风扇单元和电池单元布置在主体的基部表面的上方”中的“上方”应解释为主体范围内的上方，而不包括旋风分离器一侧。<br>经比对，被诉产品的马达及风扇均位于旋风分离器一侧的上方，故缺少涉案专利独立权利要求1中“主体的上部承装马达和风扇单元”及“马达和风扇单元和电池单元布置在主体的基部表面的上方”这两个技术特征，未落入涉案专利权利要求保护范围，不构成侵权。”</p><p>二审法院判决依据<br>“本案中，被诉产品“风扇、马达布置在旋风分离器的正上方”与涉案专利权利要求1“马达和风扇单元布置在主体的基部表面的上方”这两者在技术效果上具有明显的差异：涉案专利将风扇、马达布置在主体的上部，主体下部承装电池单元，中间通过把手连接主体上部和下部，由于上部的风扇和马达以及下部的电池单元在整个设备中的重量都较大，因此在使用时，由于风扇和马达距离把手的水平距离较近，因此具有降低或消除风扇和马达对使用者手腕施加的力矩、减缓使用过程中手腕的紧张和疲劳的有益技术效果；<br>而被诉产品将风扇和马达设置在旋风分离器的正上方，与主体的基部表面和把手存在一定的水平偏距，这样的布置方式使得风扇和马达距离把手的距离较远，加大了风扇和马达对使用者手腕施加的力矩，容易使得手腕紧张和疲劳。<br>由此，因被诉产品“风扇、马达布置在旋风分离器的正上方”与涉案专利权利要求1“马达和风扇单元布置在主体的基部表面的上方”这两技术特征具有明显不同的技术效果，故该两技术特征不能认定为等同特征。事实上，被诉产品的风扇和马达的布置方案较之于涉案专利明显属于变劣的技术方案，如要将这种变劣的技术方案也通过等同侵权认定纳入到专利权的保护范围，则明显有违专利法“推动发明创造的应用、促进科学技术进步”的立法宗旨。</p><p>再审裁定依据<br>“旋风分离器并非是主体的组成部分，其是与主体并列并沿大致竖直方向设置。在此基础上，涉案专利权利要求1明确了三个与基部表面有关的概念：主体的基部表面、旋风分离器的基部表面和设备的基部表面,其中主体的基部表面和旋风分离器的基部表面应当是两个独立的实体表面，且二者均属于设备的基部表面。相应地，主体的基部表面的上方和旋风分离器的基部表面上方应指代不同的空间区域，但均属于设备的基部表面的上方所指代的空间区域。<br>因此，如果将“主体的基部表面的上方”解释为“包括主体的基部表面侧（斜）上方在内”，那么“主体的基部表面侧（斜）上方”亦可以定义为在“旋风分离器的基部表面上方”，更可以定义为“设备的基部表面的上方”，这必然使得权利要求的保护范围变得模糊不清。”</p><p>实施变劣技术方案可以不侵犯专利权，前提是具备怎样的权利要求解释能力？<br>在本案件中就涉及到了文义解释、等同解释、说明书和附图用于解释、审查意见答复的禁止反悔原则解释、权利要求清楚的解释等。</p><p>将变劣技术方案申请专利其实也是一种专利策略，因为变劣技术方案同样是可以实施的，可能是劣在使用体验和效率，但市场是有多样化需求的，将变劣技术方案申请专利并授权则能保护属于自己的市场。<br>这也是虽然戴森代表手持吸尘器，但我国市场仍然有无数手持吸尘器产品的原因，当然，这些厂商无法去侵占属于戴森所定位的市场，不然就会成为专利侵权被告，如科沃斯、小狗电器和追觅科技。</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/Plan-B.jpeg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;条条大道通罗马。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
+    
+    
+    <category term="Law" scheme="https://coolipr.com/tags/Law/"/>
+    
+    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
+    
+    <category term="Patent" scheme="https://coolipr.com/tags/Patent/"/>
+    
+    <category term="Theory" scheme="https://coolipr.com/tags/Theory/"/>
+    
+    <category term="Trademark" scheme="https://coolipr.com/tags/Trademark/"/>
+    
+    <category term="Design" scheme="https://coolipr.com/tags/Design/"/>
+    
+    <category term="Value" scheme="https://coolipr.com/tags/Value/"/>
+    
+    <category term="Around" scheme="https://coolipr.com/tags/Around/"/>
+    
+  </entry>
   
   <entry>
     <title>Value</title>
@@ -89,9 +127,9 @@
     <link href="https://coolipr.com/Attention.html"/>
     <id>https://coolipr.com/Attention.html</id>
     <published>2020-12-25T12:30:00.000Z</published>
-    <updated>2020-12-25T06:49:11.582Z</updated>
+    <updated>2020-12-25T08:16:00.170Z</updated>
     
-    <content type="html"><![CDATA[<p><img data-src="/img/Paying-Attention-To-Attention.jpg"></p><blockquote><p>学习，工作和生活都从来是自己的事情，与他人无关。</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><p>学习成长是最好的解压方式，能够看得见，也能运用于实践，还能以教促学。<br>有人是为了完成任务，有人是为了创造价值。<br>有人打工是为了养家糊口，有人打工是为了开创一篇事业。<br>——IPCreator</p><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
+    <content type="html"><![CDATA[<p><img data-src="/img/Paying-Attention-To-Attention.jpg"></p><blockquote><p>学习，工作和生活都从来是自己的事情，与他人无关。</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><p>注意力在哪里，财富就在哪里。<br>幸福状态：沉浸并享受其中。<br>——IPCreator</p><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><p>学习成长是最好的解压方式，能够看得见，也能运用于实践，还能以教促学。<br>有人是为了完成任务，有人是为了创造价值。<br>有人打工是为了养家糊口，有人打工是为了开创一篇事业。<br>——IPCreator</p><p>关注有价值/意义/有趣的人和事</p><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/Paying-Attention-To-Attention.jpg&quot;&gt;&lt;/p&gt;
@@ -123,9 +161,9 @@
     <link href="https://coolipr.com/Free.html"/>
     <id>https://coolipr.com/Free.html</id>
     <published>2020-12-23T14:30:00.000Z</published>
-    <updated>2020-12-25T06:49:11.547Z</updated>
+    <updated>2020-12-25T08:22:17.378Z</updated>
     
-    <content type="html"><![CDATA[<p><img data-src="/img/Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg"></p><blockquote><p>免费最贵，一分钱一分货。No Pain No Gain.</p></blockquote><a id="more"></a><p>Talk is cheap.<br>Show me the patent.<br>——IPCreator</p><p>读一流书，做一流人。<br>——IPCreator</p><p>培养阅读的习惯就是为你自己构建一所避难所。<br>——毛姆</p><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><p>为什么免费最贵？<br>因为在追逐及享受免费事物的同时，宝贵的时光在悄然流逝。<br>——IPCreator</p><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><p><img data-src="https://img9.doubanio.com/view/subject/l/public/s33683876.jpg"></p><blockquote><p><a href="https://book.douban.com/subject/35092383/">把自己作为方法</a></p></blockquote><p><img data-src="https://img9.doubanio.com/view/subject/l/public/s33546871.jpg"></p><blockquote><p><a href="https://book.douban.com/subject/34922269/">Mondo电影海报艺术典藏</a></p></blockquote><p>在自我泛滥的潮流中，如何给自己定位，在全球化的年代，如何创造性地建设身边的小世界，在思想受困的社会，如何回答宏大的命题。</p><p><img data-src="/img/Reading001.jpg"><br><img data-src="/img/Reading002.jpg"><br><img data-src="/img/Reading003.jpg"><br><img data-src="/img/Reading004.jpg"></p><blockquote><p><a href="https://book.douban.com/annual/2020?source=book_navigation">豆瓣2020年度读书榜单</a></p></blockquote><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><p>先全局长远地思考下<br>三思而后行，谋定而后动</p><p>啃硬骨头<br>打硬仗<br>打打仗</p><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol><li><a href="https://mp.weixin.qq.com/s/dt8WnVE085Kdex4oG1h-3g">启蒙运动，启蒙了啥？</a></li><li><a href="https://github.com/next-theme/hexo-theme-next/issues/4">【必读】更新说明及常见问题</a></li><li><a href="https://m.douban.com/subject_collection/3859">诺贝尔文学奖历届得主代表作</a></li><li><a href="https://m.douban.com/subject_collection/5170">豆瓣热门心理图书TOP10</a></li><li><a href="https://m.douban.com/subject_collection/3855">茅盾文学奖历届获奖作品</a></li><li><a href="https://m.douban.com/subject_collection/3861">普利策小说奖历届获奖作品</a></li><li><a href="https://m.douban.com/subject_collection/14835">豆瓣中国小说 Top 100</a></li><li><a href="https://m.douban.com/subject_collection/14840">豆瓣外国小说 Top 100</a></li><li><a href="https://m.douban.com/subject_collection/5209">豆瓣热门商业图书TOP10</a></li><li><a href="https://m.douban.com/subject_collection/5181">豆瓣热门历史图书TOP10</a></li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img data-src="/img/Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg"></p><blockquote><p>免费最贵，一分钱一分货。No Pain No Gain.</p></blockquote><a id="more"></a><p>Talk is cheap.<br>Show me the patent.<br>——IPCreator</p><p>读一流书，做一流人。<br>——IPCreator</p><p>培养阅读的习惯就是为你自己构建一所避难所。<br>——毛姆</p><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><p>为什么免费最贵？<br>因为在追逐及享受免费事物的同时，宝贵的时光在悄然流逝。<br>——IPCreator</p><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><p><img data-src="https://img9.doubanio.com/view/subject/l/public/s33683876.jpg"></p><blockquote><p><a href="https://book.douban.com/subject/35092383/">把自己作为方法</a></p></blockquote><p><img data-src="https://img9.doubanio.com/view/subject/l/public/s33546871.jpg"></p><blockquote><p><a href="https://book.douban.com/subject/34922269/">Mondo电影海报艺术典藏</a></p></blockquote><p>在自我泛滥的潮流中，如何给自己定位，在全球化的年代，如何创造性地建设身边的小世界，在思想受困的社会，如何回答宏大的命题。</p><p><img data-src="/img/Reading001.jpg"><br><img data-src="/img/Reading002.jpg"><br><img data-src="/img/Reading003.jpg"><br><img data-src="/img/Reading004.jpg"></p><blockquote><p><a href="https://book.douban.com/annual/2020?source=book_navigation">豆瓣2020年度读书榜单</a></p></blockquote><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><p>先全局长远地思考下<br>三思而后行，谋定而后动</p><p>啃硬骨头<br>打硬仗<br>打打仗</p><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h3 id="南方和北方"><a href="#南方和北方" class="headerlink" title="南方和北方"></a><a href="https://www.toutiao.com/i6909665240124834316/">南方和北方</a></h3><p>南方和北方</p><p>天地玄黄，五谷杂粮，男人女人，北方南方。</p><p>南方和北方，不一样，就是不一样。</p><p>南米北面</p><p>南方和北方吃的不一样。南方人吃米，北方人吃面。米就是水稻，面则是小麦。水稻的籽儿去了壳就能吃，因此是米。麦子要磨成粉以后才能吃，因此是面。米就是“去皮后的作物子实”，如稻米、薏米、花生米。由此及彼，凡粒状的也都叫米，如姜米、虾米、高粱米。面，本写作一个麦字加一个丏字，也写作麵，就是麦子磨成的粉，所以粉状的东西都叫面，如豆面、药面、胡椒面。北方人以面食为主，甭管是吃包子、饺子、馒头、面条、饼，都先得把麦子磨成了粉再说。所以麦子磨成的粉，干脆就直接叫面。南方人不磨面，要磨也就是磨浆，比如豆浆、米浆。所以那麦子磨成的粉，不能简单地只叫面，得叫面粉，就像在北方，大米做成的主食不能简单地只叫作饭，得叫米饭一样。</p><p>南方和北方<br>○南北饮食差异</p><p>米饭不能单吃，得有菜，所以南方的烹调，功夫花在菜上。八大菜系，基本上是南方人大显身手，没北方人多少戏。北方厨师的用武之地在白案。那麦子磨成的粉，可以做出好多花样来。光是条状的，就有拉面、擀面、压面、揪面、切面、挂面、刀削面、拨鱼子等等，而拉面之中，又有拉条子、揪片子、炮仗子种种。南方人弄不清这么多名堂，统统称之为“面”。要细分，也就是宽面细面、汤面炒面、云吞面炸酱面。北方人就不能把面粉做成的条状食物简称为“面”，得叫“面条”，以区别于面糊、面皮、面包，以及其他用“面”（面粉）做成的东西。同样，南方人也不把粉状的东西称为“面”，得叫“粉”，比如胡椒粉、花椒粉、辣椒粉。</p><p>可见，活法不一样，说法也不一样。</p><p>南戏北剧</p><p>说法不一样，唱法也不一样。北方人唱歌，南方人唱曲，叫“北歌南曲”。北方人唱的是燕赵悲歌，苍凉激越，声遏行云，气吞万里；南方人唱的是吴越小曲，玲珑剔透，凄婉隽永，韵味无穷。歌变剧（歌剧），曲变戏（戏曲）。所以宋元时期的戏剧，北方的叫杂剧，南方的叫戏文，这就叫“北剧南戏”或“南戏北剧”。</p><p>戏剧戏剧，戏和剧，都有嬉戏娱乐的意思，它们原本是可以通用的。但北方人更喜欢剧烈的剧，南方人则更喜欢游戏的戏。在这方面，南方人似乎比北方人更固执。北方人只不过“剧”字用得多一点，有时也说“戏”。南方却直到二十世纪四十年代以前，还拒绝使用“剧”这个字。一应与戏剧有关的词，均以“戏”字命名，如戏子、戏台、戏园、戏班、古装戏、时装戏、木偶戏、文明戏。文明戏就是话剧，而电影则叫影戏。</p><p>南方和北方<br>○越剧剧照</p><p>1939年，上海的报纸上开始提倡“越剧”这个名词，可老百姓还是管它叫“绍兴戏”（绍剧则叫“绍兴大班”）。甚至京剧，原本也叫京戏，后来要普及国语，北方话占了上风，京戏才变成了京剧。但在南方许多地区，地方戏还是不叫“剧”而叫“戏”的，比如闽南的梨园戏、高甲戏、歌仔戏。就连“地方戏”这个词，也没人改成“地方剧”。反倒是，北方一些地方戏，不叫“剧”，而叫“戏”，如坠子戏（河南）、郿鄠戏（陕西）。于是，既有豫剧、越剧、川剧、粤剧、汉剧、楚剧、湘剧、赣剧、闽剧、沪剧，又有柳琴戏、辰河戏、采茶戏、花鼓戏、皮影戏、滑稽戏。南北“戏”“剧”之争，算是打了个平手。</p><p>但如果要较真，就会发现还是南方吃了亏。叫“剧”的都是大剧种，叫“戏”的则多半是小剧种。最有名的，也只有一个黄梅戏。其他就名不见经传。</p><p>南方和北方<br>○秦腔剧照</p><p>当然，最牛的还是秦腔。它不叫“戏”，也不叫“剧”，而叫“腔”。说起来秦腔也是有资格牛逼。京剧（还有汉剧和徽剧）里的“皮黄”（西皮、二黄）和秦腔都有瓜葛。秦腔从襄阳传到武昌、汉口，就变成了“西皮”；传到安徽桐城，就变成了“高拨子”；高拨子和吹腔在徽班中又演变成“二黄”。这西皮、二黄，汉调、徽调，北上进京一搅和，就成京剧了。看来这京剧也是“南腔北调”，秦腔自然也有资格不掺和什么“戏”“剧”之争，自顾自地吼它的“腔”。</p><p>南床北炕</p><p>南方和北方不一样的地方还很多。南人睡床，北人睡炕，这叫“南床北炕”。</p><p>南方和北方<br>○北方的炕</p><p>南人坐船，北人骑马，这叫“南船北马”。“<code>南方人指路，总是说前后左右；北方人指路，总是说东西南北</code>。”（韩少功《阳台上的遗憾》）说前后左右，是以人为坐标；说东西南北，是以物为参照。这也许可以叫“南人北物”。</p><p>南北的差异为什么这么大？环境使然。</p><p>南方潮湿，架床便于通风；北方寒冷，打炕可以取暖。北方多平原，平原上好跑马；南方多水乡，水乡里要行船。马驰平原，视野辽阔，东西南北，一目了然；船行水乡，曲里拐弯，说东西南北也去不了，就只好说前后左右了。</p><p>南拳北腿</p><p>就连打架，南方和北方都不一样。南方人喜欢用拳，北方人喜欢用腿，叫“南拳北腿”。</p><p>南方和北方<br>○电影《南拳北腿》剧照</p><p>南方人个子小，打架的地方也小，深街小巷，挤挤巴巴，难以施展，还是用拳头便当。北方天高地阔，一马平川，好汉们又一个个人高马大，一脚飞起，能把对方踢出二三里地去，很是过瘾，所以愿意在腿脚上下功夫。</p><p>也所以，<code>一个男人和一个女人关系暧昧，在南方就叫“有一手”，在北方则叫“有一腿”</code>。</p><p>南方和北方，不一样，就是不一样。</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol><li><a href="https://mp.weixin.qq.com/s/dt8WnVE085Kdex4oG1h-3g">启蒙运动，启蒙了啥？</a></li><li><a href="https://github.com/next-theme/hexo-theme-next/issues/4">【必读】更新说明及常见问题</a></li><li><a href="https://m.douban.com/subject_collection/3859">诺贝尔文学奖历届得主代表作</a></li><li><a href="https://m.douban.com/subject_collection/5170">豆瓣热门心理图书TOP10</a></li><li><a href="https://m.douban.com/subject_collection/3855">茅盾文学奖历届获奖作品</a></li><li><a href="https://m.douban.com/subject_collection/3861">普利策小说奖历届获奖作品</a></li><li><a href="https://m.douban.com/subject_collection/14835">豆瓣中国小说 Top 100</a></li><li><a href="https://m.douban.com/subject_collection/14840">豆瓣外国小说 Top 100</a></li><li><a href="https://m.douban.com/subject_collection/5209">豆瓣热门商业图书TOP10</a></li><li><a href="https://m.douban.com/subject_collection/5181">豆瓣热门历史图书TOP10</a></li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg&quot;&gt;&lt;/p&gt;
@@ -629,38 +667,6 @@
     <category term="Theory" scheme="https://coolipr.com/tags/Theory/"/>
     
     <category term="Jurisprudence" scheme="https://coolipr.com/tags/Jurisprudence/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Inventor</title>
-    <link href="https://coolipr.com/Inventor.html"/>
-    <id>https://coolipr.com/Inventor.html</id>
-    <published>2020-12-18T12:30:00.000Z</published>
-    <updated>2020-12-25T07:04:25.688Z</updated>
-    
-    <content type="html"><![CDATA[<p><img data-src="/img/InventorCover.jpg"></p><blockquote><p>职务发明、奖励报酬…</p></blockquote><a id="more"></a><h2 id="Why"><a href="#Why" class="headerlink" title="Why"></a>Why</h2><h2 id="What"><a href="#What" class="headerlink" title="What"></a>What</h2><h3 id="论民间发明人的自我救赎"><a href="#论民间发明人的自我救赎" class="headerlink" title="论民间发明人的自我救赎"></a><a href="http://www.patent5.com/article/2018/04/24/jquu.htm">论民间发明人的自我救赎</a></h3><p>一、专利的发明人分为职务发明人和民间发明人两大类</p><p>作为专利代理人会遇到形形色色的发明人，我把他们分成两大类。</p><p>第一大类是职务发明人，其职业是企业技术人员或者科研院所的研究人员，专利权归属于单位或者单位老板，所以，就算是专利赚钱了，最发财的也不是发明人，而是单位。</p><p>第二大类是民间发明人，自己搞发明创造，自己拥有专利权，期望把自己的专利权卖个好价钱来发家致富。</p><p>二、民间发明人又分为三大类</p><p>我在好多年前写过一篇《民间发明人碰不得》的文章，讲了一些民间发明人的搞笑或者神奇的故事，也给出了判断一个民间发明人是否靠谱的评价标准。作为一个严谨的专利代理人，应该对民间发明人做出更准确的定义和分类，否则会有歧视某个人群的嫌疑。</p><p>再把民间发明人分成三大类，分别是企业家类、发明家类和神经病类，具体的描述如表1所示。</p><p><img data-src="/img/InventroChart001.jpg"></p><p>三、企业家类的民间发明人</p><p>据传，谷歌的创始人拉里佩奇作为大学生的时候，就去找威尔逊律所代理申请搜索引擎算法的专利。威尔逊律所慧眼识英才，决定不收代理费，要求拉里佩奇创立公司的时候，给威尔逊律所一些期权。后来谷歌的事情大家也都知道了，预计威尔逊律所一百年的律师费收入都没有谷歌的期权赚得多吧。这个故事的真假我也没去验证过，我只是常常用这个故事来骗我的徒弟们努力做个高水平的专利代理人。</p><p>拉里佩奇在申请专利的时候，就是妥妥的屌丝以及企业家类的民间发明人。连个专利代理费都付不起的话，不是屌丝是什么？后来谷歌的成功，证明了拉里佩奇是个企业家类的民间发明人。</p><p>注意，高校教师的专利一般是职务发明人，专利权归学校，但学生的专利一般属于学生自己，不属于学校，前提是学生没有参加学校的科研项目组，也没有拿学校的科研经费。</p><p>其实，这个故事我真正要表达的观点是：最优秀的民间发明人，要做企业家，因为专利要赚大钱，最终还是靠自己去实施。</p><p>在中国，企业家类的民间发明人群体画像一般是这样的：</p><p>例如：本来是个成功的手艺人，帮人家维修家电的，然后逐渐掌握了产品质量的关键技能，就打算帮一些企业开发新产品，降低故障率。结果这些企业根本不屌他，一怒之下自己开工厂，结果就变成了成功的老板。</p><p>例如：本来是个成功的高校老师，搞科研搞出很多心得体会，也靠技术支持和专利许可收了不少钱，但总是被合作企业骗，而且合作过程中发现这些企业着实是不怎么样，就这个鸟样还很赚钱。严密思考之下，不如自己开公司吧，于是就变成了成功的老板。</p><p>企业家类的民间发明人的标志是未来能够成功的转型为企业家，不仅有技术，还有动手能力造出实物，但最重要的是能把实物卖出去，有销售产品的能力。</p><p>爱迪生、诺贝尔、索尔维，都是企业家类民间发明人的佼佼者。中国当然也有，朗科公司的邓国顺算得上是最有名的代表，很多技术型老板的公司均是如此。</p><p>四、发明家类的民间发明人</p><p>读者文摘这种充满了鸡汤的杂志最爱的文章，写过一个故事：某公司找一个技术专家判断一台机器哪里出了故障，专家看了几分钟就画了一条线，收了1000美元。这个公司嫌贵，这个专家给了个账单说，画一条线收1美元，知道在哪里划线收999美元。这个故事体现了专业知识的价值。</p><p>这个故事与专利无关，但我就是硬要与专利扯上关系。这个故事与专利的联结点就是技术的不可替代性。以这个故事而言，换个人就是修不好这台机器，这个人不可替代，才能收高价；以专利而言，这个专利不可替代，专利权人才能收到高价许可费。</p><p>其实，这个故事我真正要表达的观点是：中等优秀的民间发明人，应当做个优秀的专利流氓，前提是自己的专利技术真正具有不可替代性。</p><p>即便是中国的专利保护力度被大家狂骂的情况下，中国成功的专利流氓其实并不少。与美国的同行相比，区别仅在于赚钱赚的少而已，其实成功率差不多。流氓这个字眼，在我这里是褒义词，绝不是流里流气的那种。</p><p>以中国和美国的专利诉讼对比，如图2所示，中国的专利申请和维权的成本属于超级超级低，但维权获得的直接收益也超级超级低，所以导致发起专利诉讼本身难以成为一门利润率很高的生意。</p><p>从做生意的角度来说，让你选的话，你愿意选择一门高投入、高产出的生意，还是一门低投入、低产出的生意呢？真正的企业家一般都选择高投入高产出，所以对于企业家来说，专利诉讼并不是一门合算的生意，这导致了中国的企业不重视专利。</p><p>但，技术人员常常胆子很小，倾向于选择低投入、低产出的生意，在中国目前的这个专利赔偿力度下，民间发明人做个小小的专利流氓还是挺有市场的，投入的钱不多，赚的钱也不多，这个生意其实值得做。</p><p>目前中国正在酝酿专利法第四次修改，大幅度提高专利侵权的赔偿额，这本质上是把专利逐渐变成一门高投入高产出的生意，因此刺激企业更重视专利。</p><p><img data-src="/img/InventroChart002.jpg"></p><p>表2中的数字没有引用参考文献，我也不对准确性负责，凭感觉看就好了，需要在意的不是细节，而是趋势。</p><p>在中国，发明家类的民间发明人群体画像一般是这样的：</p><p>例如：一直从事某一个行业内的技术性质的工作，以工程师、手工艺人、曾经的高校教师、农民等为业，或者自己喜欢钻研，本质上属于企业家类的民间发明人的初级阶段，也曾经努力想成为优秀的企业家，但最终还是因为自己经营能力的欠缺而没有成功，或者兴趣专注在技术而没有尝试。</p><p>发明家类的民间发明人群体会分化为两大类，一类像是中央十台《我爱发明》栏目的一样，搞一些农用机械造福乡里，并没有太大的赚钱欲望。另一类则成功转型专利流氓，发起过一些专利侵权诉讼，胜率比较高，但也赚不到太多钱，每个赔偿几万块，总共能赚上几十万就算是中国顶级的专利流氓了。</p><p>发明家类的民间发明人的标志是造得出实物，自己动手能力比较强，发明创造并没有停留在脑海中和纸面上。将来能不能更进一步地成为企业家类的民间发明人就是不一定的事情了。</p><p>五、神经病类的民间发明人</p><p>预计专利代理人平常遇到的民间发明人以这一种为主，给民间发明人群体抹黑的也就是这种人了。我在《民间发明人碰不得》这篇文章里面也是主要写的这一类。</p><p>专利代理人如何分辨神经病类的民间发明人，以免沾染上病毒，影响自己的职业生涯，之前的文章中我已经写过了。作为民间发明人自己，如何自查自纠，避免陷入神经病类的境况，我有一些心得：</p><p>第一，以商业考虑申请专利。</p><p>也就是，申请专利只是一种商业投资行为，不要既想当婊子，还想立贞节牌坊。如果作为民间发明人只是享受发明创造的过程（想立牌坊），造福乡里，获取名誉，那就不要申请专利。</p><p>比如两获诺贝尔奖的居里夫人，发现了放射性元素镭，特意不申请专利，贡献给全世界的科研工作者，这相当于放弃了很大一笔钱，人家的目的本来就是立牌坊。</p><p>只要申请专利，就是想赚钱（想当婊子），你就必须考虑回报的问题，否则就别申请专利。</p><p>第二，专利其实一文不值，值钱的是产品。</p><p>作为民间发明人，应该知道，单单凭借一个想法，就想让老板给你投资，跟骗子没什么区别。自己没有能力实现自己产品，甚至连一个样品都造不出来，那就不要去搞发明创造了。</p><p>作为老板，也应该知道，专利证书，即便是发明专利的授权证书，依然是一文不值的，甚至是负资产，因为还要交年费呢。值钱的是另外两件事，（1）能造出来产品，（2）产品还能卖出去。</p><p>以我的经验而言，任何一个能收到专利许可费的专利，都是因为专利权人自己能造出来实物，而且该实物能够验证其产品的技术效果，这才能说服老板<code>给你投资，或者给你许可费。</code></p><p>神经病类的民间发明人的标志是自己的发明创造只有一个想法，没有能力造出实物，不能进行实践，或者造出来的东西狗屎不如，自己却被迷得神魂颠倒。</p><p>六、总结</p><p>民间发明人的三个阶梯分别是：只有想法还很偏执就是神经病，造出实物产品就是发明家了，产品还能卖出去就是企业家了。发明家类的民间发明人最容易做的事情是当专利流氓赚钱，略有成本，但风险不大；专利价值最大化的操作是自己当老板去创业，不过做的不好也有血本无归的可能。</p><p>我觉得，专利制度归根结底是一个商业制度，不是发明创造制度。赚钱才是目的，专利和研究都是手段而已。如果民间发明人只是为了满足自己发明创造的欲望，不要浪费钱去申请专利。作为企业的话，申请一些虚头巴脑的专利给自己脸上贴金还情有可原，毕竟人家有钱。作为民间发明人，追求发明家的虚名是没有意义的，因为浪费钱。</p><h2 id="How"><a href="#How" class="headerlink" title="How"></a>How</h2><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><h3 id="最牛民间发明人解文武，三星曾斥资百万购买其手机专利"><a href="#最牛民间发明人解文武，三星曾斥资百万购买其手机专利" class="headerlink" title="最牛民间发明人解文武，三星曾斥资百万购买其手机专利"></a><a href="https://www.21ic.com/article/883338.html">最牛民间发明人解文武，三星曾斥资百万购买其手机专利</a></h3><p>深圳12月21日（记者孙晓芳） “用我的方法，就能实现手机天下无贼！”如此牛气的话语，竟出自非通信专业一民间发明人解文武之口。</p><p>《手机被盗，30分钟后你可能倾家荡产》应该是《IT时报》近期阅读量最多的一篇热文，并由此引发了国内外众多媒体的持续热议。由此可见：通信科技的飞速发展给人们带来便利的同时，其安全却越发让人们担忧。尽管通信运营商和网络金融机构在媒体报道后，采取了一些安防措施，但并不能从根本上解决问题。</p><p>“若要根除手机被盗或丢失后可能倾家荡产的隐患，则必须从手机自身安全上下功夫。”基于此，十多年前，曾将个人发明的手机防盗专利卖给三星公司的民间发明家解文武，在接受《IT时报》记者采访时，才说出了如此牛气的话语。</p><p>个人专利卖三星，至今唯有解文武</p><p>把个人专利卖给三星公司，或许至今在中国还只有解文武一人。如此稀罕的事情，自然会有一些故事。由于和三星公司签订的是保密合同，解文武对合同细节并不想多说。在当时，有记者要报道此事，也被解文武婉拒。</p><p>现如今，检索国家知识产权局的专利数据库，解文武2001年提交的“手机自动隐形拨号报失的实现方法”这一发明专利，其专利权人早在2008年就由解文武变成了三星公司。所以，十多年已经过去了的保密，也早就不再算是什么秘密。</p><p>2008年7月的一天，解文武失望的从深圳一知名手机公司来到三星集团北京公司洽谈专利事宜。让他没有想到的是，第二天三星电子韩国总部知识产权总监就飞抵北京同他进行了当面恰谈，且很快提出要收购解文武的发明专利。</p><p>这让解文武有些发懵，因之前从来没想过要把专利卖给外资公司。但考虑到家庭和孩子，他随即同意了三星电子韩国总部知识产权总监的提议，并当场签订了备忘录。在签字时，解文武的手有点颤抖。因为他那时想到了专利技术一旦归属外国大公司，将肯定会对国有品牌手机带来影响。但他无法顾及太多，把专利卖给三星已是他解文武最好的结果。</p><p>一纸专利合同，或掐了山寨手机的命门</p><p>2008年8月1日，三星公司同解文武正式签订了专利权转让合同。在合同附件里，双方共同罗列了先后使用了解文武发明专利的国产手机公司，算上山寨品牌竟达50多家。在签订正式合同的同时，三星公司还让解文武签订了一份向上述国产手机公司发送律师函的委托协议。</p><p>之所以会有50多家公司使用了解文武的专利，是因为解文武同国内大品牌公司专利战期间，台湾MTK将解文武的手机防盗技术方案直接应用于手机芯片。解文武的发明专利正式过户到三星公司之后，根据市场信息反馈，采用MTK芯片方案的众多国产品牌，尤其是山寨手机在2G向3G升级的过程中陆续阵亡。</p><p>由于解文武的手机防盗专利归属三星后，国产品牌手机就不敢再轻易使用，所以现如今人们难以感受到当时解文武的此项手机防盗专利究竟有多牛？据了解，在非智能手机时代，解文武发明的手机智能报失的防盗技术，帮助过很多丢失或被盗的手机机主找回过手机，也间接协助过公安破获了不少手机被盗案件。</p><p>三星获防盗专利，重技术创新勇攀高峰</p><p>如此牛气的手机防盗技术，对解文武来说并非是一时灵感所致，而是被迫使然。1999年，解文武的事业梦想完全寄托在自己私营公司的手机销售之上，却被一连串的店铺被盗所断送。接二连三的手机失窃，激发了解文武从如何获得破案线索的角度进行手机防盗的想法。</p><p>于是，本是学市场营销的解文武，四处寻找有关电子网络通讯和手机通信原理方面的资料，并结合电子防盗器的相关知识，潜心研究并发明了“手机自动隐形拨号报失的实现方法”。2000年底，解文武先是提交了一份国内专利在先申请，2001年12月他又以优先权提交了PCT国际专利申请，并于2003年12月3日获得国家发明专利授权。</p><p>解文武把个人专利卖给三星，不能不说是国产手机品牌的损失。但我们也应该看到：三星手机销量做到全球第一，三星集团的不断发展壮大，归根到底是与其重视知识、重视人才、重视创新所分不开。三星能够斥资百万购买个人专利，可充分体现其对科技创新和知识产权的重视。毕竟技术产权是制造业提升核心竞争力、迈向价值链高端的关键。</p><p>解文武再度出山，国产手机能否抓住？</p><p>英雄不问过往，未来任重而道远。最牛民间发明家解文武十多年前的手机防盗报失专利，没能被国产品牌手机公司所重视已是万分遗憾。而如今，解文武又申请了可超越卖给三星公司防盗技术方案更好的专利，而且是可分案申请20多项的发明专利，实施这些发明，解文武可确保手机再也不怕偷与丢。</p><p>“不怕偷与丢，确保实现手机世界的天下无贼！”如此美妙且令人激动的说法，对不清楚解文武技术思想的人们来说，确实是难以相信。但只要与解文武详细沟通，在了解其发明思路和细节之后，就不得不被解文武严谨且极富创造力的思维所信服。</p><p>带着自己最新系列专利技术思想，解文武高调重返手机圈，积极推广，让手机安全无懈可击！解文武的再次出山，能否给国产手机品牌带来更多创新的功能？他的一系列新技术方案能否得到实施与运用，能否推动中国手机智造走向价值链高端，实现中国梦的飞跃？让我们拭目以待！</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img data-src=&quot;/img/InventorCover.jpg&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;职务发明、奖励报酬…&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Practice" scheme="https://coolipr.com/categories/Practice/"/>
-    
-    
-    <category term="Practice" scheme="https://coolipr.com/tags/Practice/"/>
-    
-    <category term="Patent" scheme="https://coolipr.com/tags/Patent/"/>
-    
-    <category term="Software" scheme="https://coolipr.com/tags/Software/"/>
-    
-    <category term="Inventor" scheme="https://coolipr.com/tags/Inventor/"/>
-    
-    <category term="Author" scheme="https://coolipr.com/tags/Author/"/>
     
   </entry>
   
